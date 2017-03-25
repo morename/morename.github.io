@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[英语语法笔记]]></title>
-      <url>http://lovebei.xyz//%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/</url>
+      <url>http://lovebei.xyz//%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0.html</url>
       <content type="html"><![CDATA[<p>本文是之前学习英语语法的笔记，主要参考的书有《英语语法俱乐部》,《英语阅读参考手册》，以及英语在用系列。因为最近阅读英语书籍，所以复习了一下语法，顺便整理了一下笔记并改正了笔记中的很多错误。笔记主要包括语法上的重点，一些小的细节知识和并没有。并且由于本渣英语水平有限,难免还是会有很多知识、逻辑上的错误，欢迎大家批评指正。<br><a id="more"></a></p>
 <h2 id="学习英语语法的目的"><a href="#学习英语语法的目的" class="headerlink" title="学习英语语法的目的"></a>学习英语语法的目的</h2><p>学习英语语法的最主要目的是读懂并理解句子的含义，进而读懂英语书籍。所以英语语法只是用来读懂英语文章的，或者是写作、做语法题的工具。所以”记住“语法规则并不最重要的，重要的是理解语法并自然的使用。</p>
 <h2 id="复合句与简单句"><a href="#复合句与简单句" class="headerlink" title="复合句与简单句"></a>复合句与简单句</h2><p>句子这样分类的原因是句子结构的不同。</p>
@@ -69,7 +69,7 @@
     
     <entry>
       <title><![CDATA[TLCL笔记（1）]]></title>
-      <url>http://lovebei.xyz//TLCL%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89/</url>
+      <url>http://lovebei.xyz//TLCL%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89.html</url>
       <content type="html"><![CDATA[<p>这是The Linux Command Line的笔记，TLCL是学习linux命令行的入门书籍。<br><a href="https://book.douban.com/subject/6806862/" target="_blank" rel="external">豆瓣链接</a><br><a href="http://linuxcommand.org/tlcl.php" target="_blank" rel="external">在线阅读</a><br><a id="more"></a></p>
 <h2 id="Part1-学习shell"><a href="#Part1-学习shell" class="headerlink" title="Part1-学习shell"></a>Part1-学习shell</h2><h3 id="1-什么是shell"><a href="#1-什么是shell" class="headerlink" title="1.什么是shell"></a>1.什么是shell</h3><p>shell就是一个程序，它接受从键盘输入的命令，然后把命令传递给操作系统去执行。几乎所有的Linux发行版都提供一个名为bash的来自GNU项目的shell程序。“bash”是“Bourne Again SHell”的首字母缩写，所指的是这样一个事实，bash是最初Unix上Steve Bourne写成shell程序sh的增强版</p>
 <h4 id="1-1terminal-emulator"><a href="#1-1terminal-emulator" class="headerlink" title="1.1terminal emulator"></a>1.1terminal emulator</h4><p>当使用图形界面时我们需要另一个和shell交互的叫做terminal emulator的程序，在菜单里它可能都 被简单地称为“terminal”</p>
@@ -113,7 +113,7 @@
     
     <entry>
       <title><![CDATA[Markdown 的基本语法]]></title>
-      <url>http://lovebei.xyz//Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
+      <url>http://lovebei.xyz//Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html</url>
       <content type="html"><![CDATA[<p>介绍一些Markdown的基本语法。<br><a id="more"></a></p>
 <h3 id="标题设置"><a href="#标题设置" class="headerlink" title="标题设置"></a>标题设置</h3><p>Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。<br>第一种：通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。<br>第二种：在文字开头加上 “#”，通过“#”数量表示几级标题。（一共只有1~6级标题，1级标题字体最大）</p>
 <h3 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h3><p>Markdown 使用星号<code>（*）</code>和底线<code>（_）</code>作为标记强调字词的符号，被 <code>*</code> 或 <code>_</code>包围的字词会被转成用 <code>&lt;em&gt;</code> 标签包围，用两个 <code>*</code>或<code>_</code>包起来的话，则会被转成<code>&lt;strong&gt;</code></p>
