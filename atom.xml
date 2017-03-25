@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>抄书笔记</title>
-  <subtitle>nncio的博客</subtitle>
+  <title>Petronikephoros</title>
+  <subtitle>我们所度过的每个不平凡的奇迹，也许就是连续发生的日常</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lovebei.xyz/"/>
@@ -9,7 +9,7 @@
   <id>http://lovebei.xyz/</id>
   
   <author>
-    <name>nnico</name>
+    <name>nameless</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Markdown 的基本语法</title>
-    <link href="http://lovebei.xyz/2017/03/24/markdown/"/>
-    <id>http://lovebei.xyz/2017/03/24/markdown/</id>
+    <link href="http://lovebei.xyz/title/"/>
+    <id>http://lovebei.xyz/title/</id>
     <published>2017-03-24T04:59:51.000Z</published>
     <updated>2017-03-24T13:48:00.000Z</updated>
     
