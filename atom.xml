@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lovebei.xyz/"/>
-  <updated>2017-03-25T05:57:18.000Z</updated>
+  <updated>2017-03-25T06:07:02.000Z</updated>
   <id>http://lovebei.xyz/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>TLCL笔记（1）</title>
-    <link href="http://lovebei.xyz/year/03/24/shell"/>
-    <id>http://lovebei.xyz/year/03/24/shell</id>
+    <link href="http://lovebei.xyz//TLCL(1)"/>
+    <id>http://lovebei.xyz//TLCL(1)</id>
     <published>2017-03-24T13:01:38.000Z</published>
-    <updated>2017-03-25T05:57:18.000Z</updated>
+    <updated>2017-03-25T06:07:02.000Z</updated>
     
     <content type="html"><![CDATA[<p>这是The Linux Command Line的笔记，TLCL是学习linux命令行的入门书籍。<br><a href="https://book.douban.com/subject/6806862/" target="_blank" rel="external">豆瓣链接</a><br><a href="http://linuxcommand.org/tlcl.php" target="_blank" rel="external">在线阅读</a><br><a id="more"></a></p>
 <h2 id="Part1-学习shell"><a href="#Part1-学习shell" class="headerlink" title="Part1-学习shell"></a>Part1-学习shell</h2><h3 id="1-什么是shell"><a href="#1-什么是shell" class="headerlink" title="1.什么是shell"></a>1.什么是shell</h3><p>shell就是一个程序，它接受从键盘输入的命令，然后把命令传递给操作系统去执行。几乎所有的Linux发行版都提供一个名为bash的来自GNU项目的shell程序。“bash”是“Bourne Again SHell”的首字母缩写，所指的是这样一个事实，bash是最初Unix上Steve Bourne写成shell程序sh的增强版</p>
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Markdown 的基本语法</title>
-    <link href="http://lovebei.xyz/year/03/24/markdown"/>
-    <id>http://lovebei.xyz/year/03/24/markdown</id>
+    <link href="http://lovebei.xyz//markdown"/>
+    <id>http://lovebei.xyz//markdown</id>
     <published>2017-03-24T04:59:51.000Z</published>
     <updated>2017-03-25T05:57:38.000Z</updated>
     
