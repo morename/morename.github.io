@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lovebei.xyz/"/>
-  <updated>2017-03-25T17:44:10.000Z</updated>
+  <updated>2017-03-25T17:45:15.000Z</updated>
   <id>http://lovebei.xyz/</id>
   
   <author>
@@ -14,72 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>英语语法笔记</title>
-    <link href="http://lovebei.xyz//%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0.html"/>
-    <id>http://lovebei.xyz//英语语法笔记.html</id>
-    <published>2017-03-25T07:31:44.000Z</published>
-    <updated>2017-03-25T17:44:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>本文是之前学习英语语法的笔记，主要参考的书有《英语语法俱乐部》,《英语阅读参考手册》，以及英语在用系列。因为最近阅读英语书籍，所以复习了一下语法，顺便整理了一下笔记并改正了笔记中的很多错误。笔记主要包括语法上的重点，一些小的细节知识和并没有。并且由于本渣英语水平有限,难免还是会有很多知识、逻辑上的错误，欢迎大家批评指正。<br><a id="more"></a></p>
-<h2 id="学习英语语法的目的"><a href="#学习英语语法的目的" class="headerlink" title="学习英语语法的目的"></a>学习英语语法的目的</h2><p>学习英语语法的最主要目的是读懂并理解句子的含义，进而读懂英语书籍。所以英语语法只是用来读懂英语文章的，或者是写作、做语法题的工具。所以”记住“语法规则并不最重要的，重要的是理解语法并自然的使用。</p>
-<h2 id="复合句与简单句"><a href="#复合句与简单句" class="headerlink" title="复合句与简单句"></a>复合句与简单句</h2><p>句子这样分类的原因是句子结构的不同。</p>
-<h3 id="简单句"><a href="#简单句" class="headerlink" title="简单句"></a>简单句</h3><p>所谓的简单句，就是只有一套主谓结构的句子（允许有并列主语，并列谓语。）<br>其实简单句就是以下几种结构的句子：</p>
-<ol>
-<li>S+V</li>
-<li>S+V+O</li>
-<li>S+V+O+O</li>
-<li>S+V+O+C</li>
-<li>S+V+O+C</li>
-</ol>
-<h3 id="复合句"><a href="#复合句" class="headerlink" title="复合句"></a>复合句</h3><p>复合句分为: </p>
-<ol>
-<li>并列复合句:含有两套或更多相互并列的主谓结构的的句子。简单的说就是两个简单句的组合。可简称为合句</li>
-<li>主从复合句：含有两套或更多主谓结构，但其中一个是主要的主谓结构，称为主句，其他主谓结构从属于它，并担任其句子成分，称为从句又按照担任的句子成分不同分为不同种类的从句。简称为复句。</li>
-</ol>
-<p>一些语法书，把主从复合句分类为主语、表语、宾语，状语从句等，并且再进行细分。其实分类不用这么详细，主从复合句实际上就是将简单句改造后放到另一个个句子中使用形成的句子，那么首先就按照文法俱乐部上所说的依照改造成的类型，分为名词、副词，形容词从句。而更详细的分类其实只是以上三种类型句子的简化或者从句位置的不同。</p>
-<p><strong>并列复合句相对来说很好读懂，为了读懂一个标准的主从复合句（没有进行简化），首先要做的是识别从句的种类，下面是不同种类从句的介绍</strong></p>
-<h3 id="包含名词从句的复句"><a href="#包含名词从句的复句" class="headerlink" title="包含名词从句的复句"></a>包含名词从句的复句</h3><blockquote>
-<p>将一个本身独立完整的简单句改造成名词类在前面加上无意义只有语法作用的that或用疑问词引导，放到主要从句的名词位置（主语、宾语、补语、同位语等）当做名词使用所组成的句子。其中用that连接地，代表”那件事“用疑问句引导的代表”那个问题“<br>下面从几个例子看把从句放在不同位置下和不同形态下句子的变化和that的省略</p>
-<h4 id="放在主语位置"><a href="#放在主语位置" class="headerlink" title="放在主语位置"></a>放在主语位置</h4></blockquote>
-<ol>
-<li>Something is strange</li>
-<li><p>He didn’t show up on time </p>
-<p>(A)That he din’t show up on time is strange<br>(B)It is strange that he didn’t show up on time</p>
-</li>
-</ol>
-<p>He didn’t show up on time就是句1主语something的内容。可以将它改造成名词从句放入句1成为复句A。特别的名词从句如果过长，直接放到主语位置使用时，可能会让读者看不清楚，这时可以用it这个虚词来填入主语位置，让主要从句It is strange比较清晰的表示出来，名词从句则向后移成为句B。<br><strong>注意that不能省略因为没有从属连接词，读者会以为He didn’t show up就是主要从句，再看到后面的is strange就会觉得奇怪了。</strong></p>
-<h4 id="放在宾语位置"><a href="#放在宾语位置" class="headerlink" title="放在宾语位置"></a>放在宾语位置</h4><ol>
-<li>The defendant said something.</li>
-<li><p>He didn’t do it.</p>
-<p>(A) The defendant said that he didn’t do it.<br>(B) The defendant said he didn’t do it.</p>
-</li>
-</ol>
-<p>He didn’t do it.就是例1中something的内容，于是在例2前面加上连接词that成为名词从句，然后直接放入例1中作为said的宾语，就成为(A)的复句。、<br><strong>如果名词从句放在及物动词后面的宾语位置，读者可以清楚看出这是名词从句，就可以省略连接词that成为句B。</strong><br>另一个例子：</p>
-<ol>
-<li>I find something strange.</li>
-<li>He didn’t show up on time.</li>
-</ol>
-<p>→ (A) I find it strange that he didn’t show up on time.</p>
-<p>He didn’t show up on time.就是例1的宾语something的内容，可以加上连接词that，成为名词从句，放入something的位置作宾语使用。可是它后面还有一个补语strange，如果宾语的从句太长，又会造成不清楚，所以还是借用虚字it暂代宾语位置，将从句后移，成为(A)的结果。</p>
-<h4 id="补语位置"><a href="#补语位置" class="headerlink" title="补语位置"></a>补语位置</h4><p>The car is ruined.<br>The important thing is that we’re all right.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本文是之前学习英语语法的笔记，主要参考的书有《英语语法俱乐部》,《英语阅读参考手册》，以及英语在用系列。因为最近阅读英语书籍，所以复习了一下语法，顺便整理了一下笔记并改正了笔记中的很多错误。笔记主要包括语法上的重点，一些小的细节知识和并没有。并且由于本渣英语水平有限,难免还是会有很多知识、逻辑上的错误，欢迎大家批评指正。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="NOTE" scheme="http://lovebei.xyz/categories/NOTE/"/>
-    
-    
-      <category term="English" scheme="http://lovebei.xyz/tags/English/"/>
-    
-      <category term="grammar" scheme="http://lovebei.xyz/tags/grammar/"/>
-    
-  </entry>
   
   <entry>
     <title>TLCL笔记（1）</title>
