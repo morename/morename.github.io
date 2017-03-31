@@ -4,44 +4,44 @@
   
     
     <entry>
-      <title><![CDATA[TLCL笔记（1）]]></title>
-      <url>http://lovebei.xyz//TLCL%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89.html</url>
-      <content type="html"><![CDATA[<p>这是The Linux Command Line的笔记，TLCL是学习linux命令行的入门书籍。<br><a href="https://book.douban.com/subject/6806862/" target="_blank" rel="external">豆瓣链接</a><br><a href="http://linuxcommand.org/tlcl.php" target="_blank" rel="external">在线阅读</a><br><a id="more"></a></p>
-<h2 id="Part1-学习shell"><a href="#Part1-学习shell" class="headerlink" title="Part1-学习shell"></a>Part1-学习shell</h2><h3 id="1-什么是shell"><a href="#1-什么是shell" class="headerlink" title="1.什么是shell"></a>1.什么是shell</h3><p>shell就是一个程序，它接受从键盘输入的命令，然后把命令传递给操作系统去执行。几乎所有的Linux发行版都提供一个名为bash的来自GNU项目的shell程序。“bash”是“Bourne Again SHell”的首字母缩写，所指的是这样一个事实，bash是最初Unix上Steve Bourne写成shell程序sh的增强版</p>
-<h4 id="1-1terminal-emulator"><a href="#1-1terminal-emulator" class="headerlink" title="1.1terminal emulator"></a>1.1terminal emulator</h4><p>当使用图形界面时我们需要另一个和shell交互的叫做terminal emulator的程序，在菜单里它可能都 被简单地称为“terminal”</p>
-<h4 id="1-2-一些简单命令"><a href="#1-2-一些简单命令" class="headerlink" title="1.2 一些简单命令"></a>1.2 一些简单命令</h4><ul>
-<li>date 显示系统当前时间</li>
-<li>cal 默认显示当前月份的日历</li>
-<li>df 查看磁盘剩余空间容量</li>
-<li>free 显示空闲内存容量 <strong>mac下是top</strong></li>
-</ul>
-<h4 id="1-3-结束终端会话"><a href="#1-3-结束终端会话" class="headerlink" title="1.3 结束终端会话"></a>1.3 结束终端会话</h4><p>可以通过关闭终端仿真器窗口，或者是在shell提示符下输入exit命令来终止一个终端会话</p>
-<h3 id="2-在如何文件系统中跳转"><a href="#2-在如何文件系统中跳转" class="headerlink" title="2.在如何文件系统中跳转"></a>2.在如何文件系统中跳转</h3><p>因为在命令行中没有图片，所以我们要考虑用不同的方法，在文件系统树中跳转。</p>
-<h4 id="2-1理解文件组织系统（File-System-Organization）"><a href="#2-1理解文件组织系统（File-System-Organization）" class="headerlink" title="2.1理解文件组织系统（File System Organization）"></a>2.1理解文件组织系统（File System Organization）</h4><p>像传统的操作系统一样，Linux系统上的文件被安排在所谓的分层目录结构中。这意味着它们被组织成类似树状的目录（在其他系统中称为文件夹），这个目录树可能包含文件和其他目录。文件系统中的第一个目录称为根目录。根目录包含文件和子目录，子目录包含更多文件和子目录，依次类推。</p>
-<p>注意(类Unix系统)不像Windows，每个存储设备都有一个独自的文件系统。类 Unix 操作系统，比如Linux，总是只有一个单一的文件系统树，不管有多少个磁盘或者存储设备连接到计算机上。根据负责维护系统安全的系统管理员的兴致，存储设备连接到（或着更精确些，是挂载到）目录树的各个节点上。</p>
-<h4 id="2-2-找到当前工作目录"><a href="#2-2-找到当前工作目录" class="headerlink" title="2.2 找到当前工作目录"></a>2.2 找到当前工作目录</h4><blockquote>
-<p>把文件系统想象成一个树形迷宫形状，我们站在迷宫的中间位置。在任意时刻，我们都处于一个目录里面，能看到这个目录包含的所有文件，以及通往上面目录（父目录）的路径，和下面的各个子目录。我们所在的目录则称为当前工作目录。</p>
+      <title><![CDATA[Markdown 的基本语法]]></title>
+      <url>http://lovebei.xyz//Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html</url>
+      <content type="html"><![CDATA[<p>介绍一些Markdown的基本语法。<br><a id="more"></a></p>
+<h2 id="标题设置"><a href="#标题设置" class="headerlink" title="标题设置"></a>标题设置</h2><p>Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。<br>第一种：通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。<br>第二种：在文字开头加上 “#”，通过“#”数量表示几级标题。（一共只有1~6级标题，1级标题字体最大）</p>
+<h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>Markdown 使用星号<code>（*）</code>和底线<code>（_）</code>作为标记强调字词的符号，被 <code>*</code> 或 <code>_</code>包围的字词会被转成用 <code>&lt;em&gt;</code> 标签包围，用两个 <code>*</code>或<code>_</code>包起来的话，则会被转成<code>&lt;strong&gt;</code></p>
+<h3 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h3><p>将需要设置为斜体的文字两端使用1个“*”或者“_”包起来</p>
+<h3 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a>粗体</h3><p>将需要设置为粗体的文字两端使用2个“*”或者“_”包起来</p>
+<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><blockquote>
+<p>Markdown 支持有序列表和无序列表,无序列表使用星号、加号或是减号作为列表标记</p>
 </blockquote>
-<p>如何找到当前目录呢，可以通过在命令行输入pwd（print working directory）命令，来显示当前工作目录。</p>
-<p><strong>注意：当我们首次登录系统（或者启动 terminal emulator session）后，当前工作目录是我们的home目录。每个用户都有他自己的home目录，当用户以普通用户的身份操控系统时，家目录是唯一允许用户对文件进行写入的地方。</strong></p>
-<h4 id="2-3-列出目录内容"><a href="#2-3-列出目录内容" class="headerlink" title="2.3 列出目录内容"></a>2.3 列出目录内容</h4><p>列出一个目录包含的文件及子目录，使用ls（List directory contents）命令。</p>
-<p>未写完</p>
+<p>在文字开头添加<code>*</code>或<code>+</code>或<code>-</code>实现无序列表。但是要注意在符号和文字之间需要添加空格。<br>使用数字后面跟上句号。和空格实现有序列表</p>
+<h2 id="blockquote"><a href="#blockquote" class="headerlink" title="blockquote"></a>blockquote</h2><p>在文字开头添加“&gt;”表示blockquote</p>
+<p><strong>区块引用可以嵌套（例如：引用内的引用），只要根据层次加上不同数量的 &gt;,引用的区块内也可以使用其他的 Markdown 语法，包括标题、列表、代码区块等</strong></p>
+<h2 id="代码区块"><a href="#代码区块" class="headerlink" title="代码区块"></a>代码区块</h2><blockquote>
+<p>和程序相关的写作或是标签语言原始码通常会有已经排版好的代码区块,通常这些区块我们并不希望它以一般段落文件的方式去排版,而是照原来的样子。</p>
+</blockquote>
+<p>要在Markdown中建立代码区块很简单,只要简单地缩进4个空格或是1个制表符就可以显示<br>还有一种方法适合简单文字,使用<code>&lt;blockquote&gt;</code></p>
+<h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><p>可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。可以在星号或是减号中间插入空格</p>
+<h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><p>Markdown支持两种形式的链接语法：行内式和参考式两种形式。</p>
+<p>不管是哪一种，链接文字都是用[方括号]来标记。</p>
+<h3 id="行内式"><a href="#行内式" class="headerlink" title="行内式"></a>行内式</h3><p>要建立一个行内式的链接，只要在方块括号后面紧接着圆括号并插入网址链接即可，如果你还想要加上链接的 title 文字，只要在网址后面，用双引号把 title 文字包起来即可<br>例如：    </p>
+<pre><code>This is [an example](http://example.com/ &quot;Title&quot;)
+
+[This link](http://example.net/) has no title attribute.
+</code></pre><p>效果如下：<br>This is <a href="http://example.com/" title="Title" target="_blank" rel="external">an example</a>.</p>
+<p><a href="http://example.net/" target="_blank" rel="external">This link</a> has no title attribute.</p>
+<h3 id="参考式"><a href="#参考式" class="headerlink" title="参考式"></a>参考式</h3><p>参考式的效果如下：</p>
+<p>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="external">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="external">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="external">MSN</a>.</p>
+<p>  实现方法: </p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">I get 10 times more traffic from [<span class="string">Google</span>][<span class="symbol">1</span>] than from [<span class="string">Yahoo</span>][<span class="symbol">2</span>] or [<span class="string">MSN</span>][<span class="symbol">3</span>].  [1]: http://google.com/        "Google" [2]: http://search.yahoo.com/  "Yahoo Search" [3]: http://search.msn.com/    "MSN Search"</div></pre></td></tr></table></figure>
+<h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>和links的处理方式很类似<br><figure class="highlight plain"><figcaption><span>text](/path/to/img.jpg "Title")```</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">或者</div><div class="line">```![alt text][id] [id]: /path/to/img.jpg &quot;Title&quot;</div></pre></td></tr></table></figure></p>
+<h2 id="footnote"><a href="#footnote" class="headerlink" title="footnote"></a>footnote</h2><p>实现方式如下：<br><code>``hello[^hello][^hello]: hi</code></p>
 ]]></content>
       
-        <categories>
-            
-            <category> NOTE </category>
-            
-        </categories>
-        
         
         <tags>
             
-            <tag> Linux </tag>
-            
-            <tag> Command Line </tag>
-            
-            <tag> shell </tag>
+            <tag> Markdown </tag>
             
         </tags>
         
